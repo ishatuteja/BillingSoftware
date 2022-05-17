@@ -1,0 +1,17 @@
+	 Welcome to Tuteja's Mini Mall
+
+ Bill Number:1833
+ Customer Name:
+ Customer Phone:
+ Customer Email:
+ ============================================
+ Products			Qty		Price
+ ============================================  Boroplus			1		300
+  Boroplus			1		300
+  Boroplus			1		300
+
+=============================================
+ Sub Amount:				Rs.900.00 
+ Tax Amount:				Rs.72.00
+ Total Amount:				Rs.972.00
+==============================================

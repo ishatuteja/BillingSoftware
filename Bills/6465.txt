@@ -1,0 +1,18 @@
+	 Welcome to Tuteja's Mini Mall
+
+ Bill Number:6465
+ Customer Name:kinshuk
+ Customer Phone:9038278327
+ Customer Email:kinshukvaidya44@gmail.com
+ ============================================
+ Products			Qty		Price
+ ============================================  Roadster			1		2000
+  Mufti			1		4000
+  Boroplus			1		300
+  Boroplus			1		300
+
+===========================================
+ Sub Amount:				Rs.6600.00 
+ Tax Amount:				Rs.756.00
+ Total Amount:				Rs.7356.00
+============================================

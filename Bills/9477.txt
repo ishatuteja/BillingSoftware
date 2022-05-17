@@ -1,0 +1,17 @@
+	 Welcome to Tuteja's Mini Mall
+
+ Bill Number:9477
+ Customer Name:
+ Customer Phone:
+ Customer Email:
+ ============================================
+ Products			Qty		Price
+ ============================================Indulekha			1		600
+vicco			1		250
+patanjali			1		220
+
+==========================================
+ Sub Amount:				Rs.1070.00 
+ Tax Amount:				Rs.102.00
+ Total Amount:				Rs.1172.00
+============================================

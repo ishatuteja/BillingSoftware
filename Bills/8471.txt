@@ -1,0 +1,18 @@
+	 Welcome to Tuteja's Mini Mall
+
+ Bill Number:8471
+ Customer Name:
+ Customer Phone:
+ Customer Email:
+ ============================================
+ Products			Qty		Price
+ ============================================  Lux			1		40
+  Lux			1		40
+  Lux			1		40
+  Lux			1		40
+
+============================================
+ Sub Amount:				Rs.160.00 
+ Tax Amount:				Rs.14.40
+ Total Amount:				Rs.174.40
+=============================================

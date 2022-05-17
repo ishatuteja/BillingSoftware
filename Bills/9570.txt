@@ -1,0 +1,18 @@
+	 Welcome to Tuteja's Mini Mall
+
+ Bill Number:9570
+ Customer Name:
+ Customer Phone:
+ Customer Email:
+ =========================================
+ Products					Qty			Price
+
+ ========================================= =========================================
+IphoneX			1		70000
+IphoneX			1		70000
+
+==========================================
+ Sub Amount:				Rs.210000.00 
+ Tax Amount:				Rs.16800.00
+ Total Amount:				Rs.226800.00
+============================================

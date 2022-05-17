@@ -1,0 +1,17 @@
+	 Welcome to Tuteja's Mini Mall
+
+ Bill Number:7067
+ Customer Name:
+ Customer Phone:
+ Customer Email:
+ ============================================
+ Products			Qty		Price
+ ============================================  Indulekha			1		600
+  Fairnlovely			1		400
+  polo			2		8000
+
+===========================================
+ Sub Amount:				Rs.9000.00 
+ Tax Amount:				Rs.600.00
+ Total Amount:				Rs.9600.00
+============================================
